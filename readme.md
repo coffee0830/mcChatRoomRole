@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="vs-code.css">
+
 
 ---
 title: 질문|모드 오류
