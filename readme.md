@@ -3,7 +3,7 @@ title: 질문|모드 오류
 hide_table_of_contents: true
 output:
   rmarkdown::html_document:
-    theme: dark
+    theme: darkly
 ---
 
 # [모드 충돌]( ) 패브릭
