@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="vs-code.css">
+
 ---
 title: 질문|모드 오류
 hide_table_of_contents: true
