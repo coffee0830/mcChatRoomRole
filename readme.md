@@ -1,11 +1,9 @@
-
-
 ---
 title: 질문|모드 오류
 hide_table_of_contents: true
 output:
-  rmarkdown::html_document:
-    theme: darkly
+  html_document:
+    css: vs-code.css
 ---
 
 # [모드 충돌]( ) 패브릭
